@@ -1,0 +1,4 @@
+C:\Users\pre10\Desktop\네트워크\SelectChatServer\TCPServer\Debug\TCPServer.exe
+C:\Users\pre10\Desktop\네트워크\SelectChatServer\TCPServer\Debug\TCPServer.pdb
+C:\Users\pre10\Desktop\네트워크\ChatServer\Debug\TCPServer.exe
+C:\Users\pre10\Desktop\네트워크\ChatServer\Debug\TCPServer.pdb
