@@ -1,0 +1,2 @@
+C:\Users\pre10\Desktop\네트워크\ChatClient\Debug\TCPClient.exe
+C:\Users\pre10\Desktop\네트워크\ChatClient\Debug\TCPClient.pdb
